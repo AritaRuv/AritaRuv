@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritaruv&label=Profile%20views&color=0e75b6&style=flat" alt="aritaruv" /> </p>
 
-- 🔭 I’m currently working on **Psico-costa**
+- 🔭 I’m currently working on **Psico-costa website**
 
 - 🌱 I’m currently learning **NestJS, Typescript**
 
