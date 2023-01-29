@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Etnac Group**
 
-- 🌱 I’m currently learning **NestJS, Typescript, My**
+- 🌱 I’m currently learning ** MySQL**
 
 - 💬 Ask me about **React, Redux**
 
