@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Etnac Group**
 
-- 🌱 I’m currently learning ** MySQL**
+- 🌱 I’m currently learning ** Design UX/UI**
 
 - 💬 Ask me about **React, Redux**
 
